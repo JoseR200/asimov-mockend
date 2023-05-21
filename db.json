@@ -16,38 +16,93 @@
     "exams": [
         {
             "id": "1234",
-            "question": "How much is 2 + 2",
-            "alternatives": [
+            "course": "Math",
+            "questions": [
                 {
-                    "id": "1",
-                    "text": "2",
-                    "correct": false
+                    "question": "How much is 2 + 2",
+                    "alternatives": [
+                        {
+                            "id": "1",
+                            "text": "2",
+                            "correct": false
+                        },
+                        {
+                            "id": "2",
+                            "text": "4",
+                            "correct": true
+                        },
+                        {
+                            "id": "3",
+                            "text": "10",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "id": "2",
-                    "text": "4",
-                    "correct": true
-                },
-                {
-                    "id": "3",
-                    "text": "10",
-                    "correct": false
+                    "question": "How much is 5 + 5",
+                    "alternatives": [
+                        {
+                            "id": "1",
+                            "text": "3",
+                            "correct": false
+                        },
+                        {
+                            "id": "2",
+                            "text": "5",
+                            "correct": false
+                        },
+                        {
+                            "id": "3",
+                            "text": "10",
+                            "correct": true
+                        }
+                    ]
                 }
             ]
         },
         {
             "id": "4321",
-            "question": "Is the iPhone a smartphone?",
-            "alternatives": [
+            "course": "Science",
+            "questions": [
                 {
-                    "id": "1",
-                    "text": "yes",
-                    "correct": true
+                    "question": "What is H2O",
+                    "alternatives": [
+                        {
+                            "id": "1",
+                            "text": "Water",
+                            "correct": true
+                        },
+                        {
+                            "id": "2",
+                            "text": "Oil",
+                            "correct": false
+                        },
+                        {
+                            "id": "3",
+                            "text": "Alcohol",
+                            "correct": false
+                        }
+                    ]
                 },
                 {
-                    "id": "2",
-                    "text": "no",
-                    "correct": false
+                    "question": "What is O",
+                    "alternatives": [
+                        {
+                            "id": "1",
+                            "text": "Oxigen",
+                            "correct": true
+                        },
+                        {
+                            "id": "2",
+                            "text": "Carbon",
+                            "correct": false
+                        },
+                        {
+                            "id": "3",
+                            "text": "Nitrogen",
+                            "correct": false
+                        }
+                    ]
                 }
             ]
         }
