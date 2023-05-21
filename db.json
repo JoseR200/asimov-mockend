@@ -1,3 +1,79 @@
 {
-    "products": [{"name": "Hello"},{"name": "How"}]
+    "students": [
+        {
+            "id": "201910421"
+        },
+        {
+            "id": "201910045"
+        },
+        {
+            "id": "201910146"
+        },
+        {
+            "id": "201910225"
+        }
+    ],
+    "exams_students": [
+        {
+            "id": "1234",
+            "studentsId": [
+                {
+                    "studentId": "201910421"
+                },
+                {
+                    "studentId": "201910045"
+                }
+            ]
+        },
+        {
+            "id": "4321",
+            "studentsId": [
+                {
+                    "studentId": "201910146"
+                },
+                {
+                    "studentId": "201910225"
+                }
+            ]
+        }
+    ],
+    "exams": [
+        {
+            "id": "1234",
+            "question": "How much is 2 + 2",
+            "alternatives": [
+                {
+                    "id": "1",
+                    "text": "2",
+                    "correct": false
+                },
+                {
+                    "id": "2",
+                    "text": "4",
+                    "correct": true
+                },
+                {
+                    "id": "3",
+                    "text": "10",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": "4321",
+            "question": "Is the iPhone a smartphone?",
+            "alternatives": [
+                {
+                    "id": "1",
+                    "text": "yes",
+                    "correct": true
+                },
+                {
+                    "id": "2",
+                    "text": "no",
+                    "correct": false
+                }
+            ]
+        }
+    ]
 }
