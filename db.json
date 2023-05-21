@@ -13,30 +13,6 @@
             "id": "201910225"
         }
     ],
-    "exams_students": [
-        {
-            "id": "1234",
-            "studentsId": [
-                {
-                    "studentId": "201910421"
-                },
-                {
-                    "studentId": "201910045"
-                }
-            ]
-        },
-        {
-            "id": "4321",
-            "studentsId": [
-                {
-                    "studentId": "201910146"
-                },
-                {
-                    "studentId": "201910225"
-                }
-            ]
-        }
-    ],
     "exams": [
         {
             "id": "1234",
