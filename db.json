@@ -19,44 +19,44 @@
             "course": "Math",
             "questions": [
                 {
+                    "id": "1",
                     "question": "How much is 2 + 2",
                     "alternatives": [
                         {
                             "id": "1",
-                            "text": "2",
-                            "correct": false
+                            "text": "2"
                         },
                         {
                             "id": "2",
-                            "text": "4",
-                            "correct": true
+                            "text": "4"
                         },
                         {
                             "id": "3",
-                            "text": "10",
-                            "correct": false
+                            "text": "10"
                         }
-                    ]
+                    ],
+                    "selected": "",
+                    "correctAlternative": "2"
                 },
                 {
+                    "id": "2",
                     "question": "How much is 5 + 5",
                     "alternatives": [
                         {
                             "id": "1",
-                            "text": "3",
-                            "correct": false
+                            "text": "3"
                         },
                         {
                             "id": "2",
-                            "text": "5",
-                            "correct": false
+                            "text": "5"
                         },
                         {
                             "id": "3",
-                            "text": "10",
-                            "correct": true
+                            "text": "10"
                         }
-                    ]
+                    ],
+                    "selected": "",
+                    "correctAlternative": "3"
                 }
             ]
         },
@@ -65,44 +65,44 @@
             "course": "Science",
             "questions": [
                 {
+                    "id": "1",
                     "question": "What is H2O",
                     "alternatives": [
                         {
                             "id": "1",
-                            "text": "Water",
-                            "correct": true
+                            "text": "Water"
                         },
                         {
                             "id": "2",
-                            "text": "Oil",
-                            "correct": false
+                            "text": "Oil"
                         },
                         {
                             "id": "3",
-                            "text": "Alcohol",
-                            "correct": false
+                            "text": "Alcohol"
                         }
-                    ]
+                    ],
+                    "selected": "",
+                    "correctAlternative": "1"
                 },
                 {
+                    "id": "2",
                     "question": "What is O",
                     "alternatives": [
                         {
                             "id": "1",
-                            "text": "Oxigen",
-                            "correct": true
+                            "text": "Oxigen"
                         },
                         {
                             "id": "2",
-                            "text": "Carbon",
-                            "correct": false
+                            "text": "Carbon"
                         },
                         {
                             "id": "3",
-                            "text": "Nitrogen",
-                            "correct": false
+                            "text": "Nitrogen"
                         }
-                    ]
+                    ],
+                    "selected": "",
+                    "correctAlternative": "3"
                 }
             ]
         }
