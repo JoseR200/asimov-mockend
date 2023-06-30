@@ -31,6 +31,13 @@
             "password": "string"
         }
     ],
+    "usuarios": [
+        {
+            "id": "1",
+            "usuario": "string",
+            "password": "string"
+        }
+    ],
     "headset": [
         {
             "id": "1b8d5e55-8909-46ba-b2b7-2c9f203ca9b6",
