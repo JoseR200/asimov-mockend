@@ -1,110 +1,168 @@
 {
-    "students": [
+    "user": [
         {
-            "id": "201910421"
+            "idUser": "0acb5181-56a6-4de1-8c14-2dd31c8014a5",
+            "usuario": "d",
+            "password": "d"
         },
         {
-            "id": "201910045"
+            "idUser": "4591cdda-7502-430a-b191-3af352924a16",
+            "usuario": "1",
+            "password": "1"
         },
         {
-            "id": "201910146"
+            "idUser": "656c2959-6937-41dd-9617-9b56ba70492b",
+            "usuario": "2",
+            "password": "2"
         },
         {
-            "id": "201910225"
+            "idUser": "86c35bd7-15cc-41e0-a1ce-99df5fb7b883",
+            "usuario": "d",
+            "password": "d"
+        },
+        {
+            "idUser": "97dde9a6-281c-4044-b54a-16016c3ed5d4",
+            "usuario": "f",
+            "password": "f"
+        },
+        {
+            "idUser": "c28d01f0-b374-42a1-90fc-3949f7897f4d",
+            "usuario": "string",
+            "password": "string"
         }
     ],
-    "exams": [
+    "headset": [
         {
-            "id": "1234",
-            "course": "Math",
-            "questions": [
-                {
-                    "id": "1",
-                    "question": "How much is 2 + 2",
-                    "alternatives": [
-                        {
-                            "id": "1",
-                            "text": "2"
-                        },
-                        {
-                            "id": "2",
-                            "text": "4"
-                        },
-                        {
-                            "id": "3",
-                            "text": "10"
-                        }
-                    ],
-                    "selected": "",
-                    "correctAlternative": "2"
-                },
-                {
-                    "id": "2",
-                    "question": "How much is 5 + 5",
-                    "alternatives": [
-                        {
-                            "id": "1",
-                            "text": "3"
-                        },
-                        {
-                            "id": "2",
-                            "text": "5"
-                        },
-                        {
-                            "id": "3",
-                            "text": "10"
-                        }
-                    ],
-                    "selected": "",
-                    "correctAlternative": "3"
-                }
-            ]
+            "idUser": "0acb5181-56a6-4de1-8c14-2dd31c8014a5",
+            "usuario": "d",
+            "password": "d"
         },
         {
-            "id": "4321",
-            "course": "Science",
-            "questions": [
-                {
-                    "id": "1",
-                    "question": "What is H2O",
-                    "alternatives": [
-                        {
-                            "id": "1",
-                            "text": "Water"
-                        },
-                        {
-                            "id": "2",
-                            "text": "Oil"
-                        },
-                        {
-                            "id": "3",
-                            "text": "Alcohol"
-                        }
-                    ],
-                    "selected": "",
-                    "correctAlternative": "1"
-                },
-                {
-                    "id": "2",
-                    "question": "What is O",
-                    "alternatives": [
-                        {
-                            "id": "1",
-                            "text": "Oxigen"
-                        },
-                        {
-                            "id": "2",
-                            "text": "Carbon"
-                        },
-                        {
-                            "id": "3",
-                            "text": "Nitrogen"
-                        }
-                    ],
-                    "selected": "",
-                    "correctAlternative": "1"
-                }
-            ]
+            "idUser": "4591cdda-7502-430a-b191-3af352924a16",
+            "usuario": "1",
+            "password": "1"
+        },
+        {
+            "idUser": "656c2959-6937-41dd-9617-9b56ba70492b",
+            "usuario": "2",
+            "password": "2"
+        },
+        {
+            "idUser": "86c35bd7-15cc-41e0-a1ce-99df5fb7b883",
+            "usuario": "d",
+            "password": "d"
+        },
+        {
+            "idUser": "97dde9a6-281c-4044-b54a-16016c3ed5d4",
+            "usuario": "f",
+            "password": "f"
+        },
+        {
+            "idUser": "c28d01f0-b374-42a1-90fc-3949f7897f4d",
+            "usuario": "string",
+            "password": "string"
+        }
+    ],
+    "ram": [
+        {
+            "id": "5d84d1df-19de-4186-a327-1675615bbd65",
+            "name": "Corsair Vengeance LPX 32GB (2X16GB) DDR4 3200 (PC4-25600)",
+            "price": 236.28,
+            "description": "Sobre este artículo\nLos chips de memoria ordenados a mano garantizan un alto rendimiento con un generoso espacio de overclocking\nVENGEANCE LPX está optimizado para una amplia compatibilidad con las últimas tarjetas madre Intel y AMD DDR4\nUna altura de perfil bajo de solo 1.339 in garantiza que VENGEANCE LPX incluso se ajuste a la mayoría de construcciones de factor de forma pequeño",
+            "imageUrl": "https://m.media-amazon.com/images/I/518T3hrUY4L._AC_SX679_.jpg"
+        },
+        {
+            "id": "837e3201-36c0-40f1-9de9-1d411a3c44be",
+            "name": "Patriot Viper Steel DDR4 16GB (2 x 8GB) Kit de 3000MHz con escudo térmico gris plomizo",
+            "price": 138.12,
+            "description": "Capacidad: kit DDR4 de 16 GB (2 x 8 GB). Lados de color gris plomizo con logotipo de Viper de corte de diamante/parte superior negra\nFrecuencia base: PC4-17000 (2133MHz); perfil de frecuencia probado 1: PC4-24000 (3000 MHz)\nTiempo base: 15-15-15-36; Tiempo probado: 16-18-18-36\nVoltaje probado para perfil 1: 1,35 V\nFunción Overclock: soporte XMP 2.0 para overclocking automático",
+            "imageUrl": "https://m.media-amazon.com/images/I/917jhv56PSL._AC_SX679_.jpg"
+        },
+        {
+            "id": "b6de662f-5fc8-4b5d-a199-55ffc96145aa",
+            "name": "Rucial - Memoria de 16GB SODIMM de 260 pines DDR4 3200 MT/s (PC4-25600)",
+            "price": 109.03,
+            "description": "Sobre este artículo\nOptimizado para procesadores y plataformas de próxima generación.\nAumenta las velocidades hasta 3200 MT/s y se espera que estén disponibles tasas de datos más rápidas a medida que la tecnología DDR4 madure.\nAumenta el ancho de banda hasta un 30%.\nReduce el consumo de energía hasta en un 40% y amplía la vida de la batería.\nVelocidades de acceso de ráfaga más rápidas para mejorar el rendimiento secuencial de los datos.",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LX2Lz9yOL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+        },
+        {
+            "id": "c2ddc9aa-6fff-4614-bb02-5ed7c1f44471",
+            "name": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200 (PC4-25600)",
+            "price": 290.81,
+            "description": "Sobre este artículo\nIluminación RGB multizona dinámica: 10 LEDs RGB ultra brillantes por módulo.\nToma el control del software CORSAIR iCUE y sincroniza la iluminación con otros productos CORSAIR RGB, incluidos refrigeradores de CPU, teclados y ventiladores.\nLa PCB de rendimiento personalizado proporciona la más alta calidad de señal para el mayor nivel de rendimiento y estabilidad.",
+            "imageUrl": "https://m.media-amazon.com/images/I/51gCXtjJKhL._AC_SX679_.jpg"
+        },
+        {
+            "id": "d7bdc4be-8e8c-455d-900a-86c8d3ba61ac",
+            "name": "Corsair Vengeance RGB Pro SL 32GB (2x16GB) DDR4 3600 (PC4-28800) C18 1.35V.",
+            "price": 290.81,
+            "description": "Sobre este artículo\nIlumina tu sistema con iluminación viva y animada de diez LED RGB direccionables individualmente, ultra brillantes por módulo.\nElige entre docenas de perfiles de iluminación preestablecidos o crea tu propio software CORSAIR iCUE.\nSolo 1.732 pulgadas de alto para una amplia compatibilidad con enfriadores de aire como el Corsair A500.",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ks5I-TN1L._AC_SX679_.jpg"
+        },
+        {
+            "id": "d9650d80-7ff2-40cd-b62e-cb0f6d54f9cb",
+            "name": "Patriot Viper Elite II DDR4 32 GB (2 x 16 GB) 3200 MHz Kit",
+            "price": 218.1,
+            "description": "Sobre este artículo\nCapacidad: 32 GB (2 x 16 GB) 3200 MHz Kit\nFunción Overclock: soporte XMP 2.0 para overclocking automático\nGarantía: garantía limitada de por vida.",
+            "imageUrl": "https://m.media-amazon.com/images/I/61n-vnPKoIS._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+        },
+        {
+            "id": "e83e7c4b-e108-4979-b24e-483fa6c47686",
+            "name": "Patriot Viper Steel RGB DDR4 RAM 16GB (2X8GB) 3200MHz",
+            "price": 174.47,
+            "description": "Capacidad: 16 GB (2 x 8) 3200 MHz Kit\nLaterales negros con logotipo dorado Viper / parte superior de barra de luz\nDisipador de calor de aluminio con elemento de diseño de logotipo de Viper dorado\nSincronización RGB: compatible con la aplicación de placa base ASUS/ASRock/MSI/Gigabyte\nFunción Overclock: soporte XMP 2.0 para overclocking automático.",
+            "imageUrl": "https://m.media-amazon.com/images/I/919v9l2135L._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+        }
+    ],
+    "solidDisk": [
+        {
+            "id": "372d5a34-551b-4188-bda3-49fed09abc5a",
+            "name": "Western Digital SSD interna de estado sólido SATA SA510 SATA de 4 TB WD Blue - SATA III 6 Gb/s, 2.5",
+            "price": 836.15,
+            "description": "Sobre este artículo\nActualiza tu creatividad con un impulso de rendimiento que ofrece velocidades de lectura de hasta 560 MB/(2) (500 GB (1) - 4 TB (1) modelos).\nDale a tu PC una nueva vida con capacidades de hasta 4 TB (1) y alta resistencia, además de un bajo consumo de energía para más vida útil de la laptop entre cargas y vibraciones reducidas en comparación con los HDD. Trabaja con confianza ya que el panel SSD digital occidental descargable (3).",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HpqY5AJLL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "373cdeb0-6061-4be1-aba4-7edc45392654",
+            "name": "Western Digital Unidad interna de estado sólido SSD WD SN570 NVMe azul de 1 TB - Gen3 x4 PCIe 8Gb/s, M.2 2280, hasta 3,500 MB/s",
+            "price": 181.74,
+            "description": "Sobre este artículo\nRendimiento de lectura secuencial: 3300 MB/s, rendimiento de escritura secuencial: 1200 MB/s. Plataforma de computadora: PC\nCaracterísticas de fiabilidad notables para ayudar a proteger tu contenido\nFactor de forma delgado M.2 2280, compatible con PCIe\nAhorra espacio con un SSD NVMe M.2 2280 PCIe Gen3 x4 de una sola cara\n¹Como se utiliza para capacidad de almacenamiento, 1 GB = 1.000.000 bytes y 1 TB = 1.000.000.000.000 bytes. La capacidad real del usuario puede ser menor dependiendo del entorno operativo",
+            "imageUrl": "https://m.media-amazon.com/images/I/81BrPx3HCfL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "4bc5ff7e-8581-477c-bc8f-40f4bf3d95b9",
+            "name": "fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280, caché SLC 3D NAND TLC, hasta 3500 MB/s",
+            "price": 145.39,
+            "description": "Sobre este artículo\nExcelente rendimiento: el SSD Fanxiang S500 Pro M.2 añade calcomanías de disipación de calor de grafeno para proporcionar un control eficaz de disipación de calor para SSD interna, mejora su rendimiento y vida útil, hasta 640 TBW (TeraBytes escritos)\nTransmisión de alta velocidad: acelera el rendimiento de lectura y escritura de discos duros de estado sólido a través de la tecnología inteligente de caché SLC, hasta 3500/3000 MB/s, mejorando en gran medida la velocidad de arranque, apertura de programas, carga de juegos, ahorro de archivos y transmisión, etc",
+            "imageUrl": "https://m.media-amazon.com/images/I/81N9hd2WF7L._AC_SL1500_.jpg"
+        },
+        {
+            "id": "bad74330-c956-4c75-bd74-90fa34bbc169",
+            "name": "Crucial MX500",
+            "price": 127.21,
+            "description": "Sobre este artículo\nCapacidad: 500 GB.\nFactor de forma: 2,5 pulgadas.\nInterfaz: SATA3.\nNAND Flash: Micron 3D TLC NAND\nGrosor: 0.276 in (con adaptador de 0.374 in).",
+            "imageUrl": "https://m.media-amazon.com/images/I/81TmfqEBQwL._AC_SL1280_.jpg"
+        },
+        {
+            "id": "e3d369f6-d9bb-4058-a5b6-b3d515f9523d",
+            "name": "WD_BLACK Unidad interna de estado sólido SSD para juegos SN770 NVMe de 2 TB - Gen4 PCIe",
+            "price": 399.88,
+            "description": "Sobre este artículo\nEntra en el juego rápidamente mientras pasas los tiempos de carga con velocidades asombrosas de hasta 5,150 MB/s(1) (modelos de 1 TB y 2 TB)..velocidad de transferencia de fecha: 5150.0 megabytes_por_second\nObtén mucho espacio para tus últimos juegos, actualizaciones futuras y contenido descargable con capacidades de hasta 2 TB (2).\nAdmite futuros juegos desarrollados para la tecnología DirectStorage de Microsoft para tiempos de carga más rápidos.",
+            "imageUrl": "https://m.media-amazon.com/images/I/61H2TExrXUL._AC_SL1100_.jpg"
+        },
+        {
+            "id": "e5f9c3c3-87e5-44ce-b9a7-a0a6daf11b53",
+            "name": "Samsung 870 QVO-Series - Unidad de estado sólido SSD de 2.5 pulgadas con conexión SATA III",
+            "price": 363.52,
+            "description": "Sobre este artículo\nVe a lo grande, haz más: el QVO 870 es el SSD QLC de segunda generación de Samsung con hasta 8 TB de capacidad de almacenamiento. Compatible con interfaces SATA de 3 Gbps y 1,5 Gbps\nMejorado de todos los sentidos: con un límite de interfaz SATA ampliado de velocidades secuenciales de 560/530 MB/s, el QVO 870 mejora la velocidad de acceso aleatorio y el rendimiento sostenido",
+            "imageUrl": "https://m.media-amazon.com/images/I/712OiYAofXL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "e9fce299-ad39-49e1-a411-d14a5bb13e41",
+            "name": "Fanxiang S101 1TB - Unidad interna de estado sólido SSD SATA III de 6 Gb/s de 2,5 pulgadas",
+            "price": 127.21,
+            "description": "Sobre este artículo\n【Computadora de aceleración】: Reemplazando los discos duros mecánicos tradicionales, actualiza tu portátil o computador de escritorio y reduce el tiempo que tarda en arrancar el sistema operativo y abrir aplicaciones\nRespuesta rápida: Fanxiang El SSD S101 adopta una interfaz SATA III de 6 Gb/s, la velocidad máxima de lectura de hasta 550 Mb/s, y la velocidad máxima de escritura de hasta 500 Mb/s",
+            "imageUrl": "https://m.media-amazon.com/images/I/61v6iv3k14L._AC_SL1500_.jpg"
         }
     ]
 }
